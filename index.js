@@ -1,5 +1,18 @@
 // document.getElementById("count-el").innerHTML = 10;
 
-let count =0
+// initialize the counter
+let count = 0
+count = count + 1;
+console.log(count)
 
-console.log(count);
+// listen for clicks on the increment button
+
+
+// increment the count variable when the button is clicked
+
+
+
+
+
+
+
